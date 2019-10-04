@@ -1,0 +1,18 @@
+[
+    {
+        "model": "phonebill.phonebill",
+        "pk": 1,
+        "fields": {
+            "period": "03/2019",
+            "source_call": "99988526423"
+        }
+    },
+    {
+        "model": "phonebill.phonebill",
+        "pk": 2,
+        "fields": {
+            "period": "04/2019",
+            "source_call": "99988526423"
+        }
+    }
+]

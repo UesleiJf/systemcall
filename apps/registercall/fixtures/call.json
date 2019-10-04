@@ -1,0 +1,165 @@
+[
+    {
+        "model": "registercall.registercall",
+        "pk": 1,
+        "fields": {
+            "id_call": 70,
+            "destination_call": "9993468278",
+            "source_call": "99988526423",
+            "timestamp_call": "2016-02-29 12:00:00",
+            "type_call": 1
+        }
+    },
+    {
+        "model": "registercall.registercall",
+        "pk": 2,
+        "fields": {
+            "id_call": 70,
+            "timestamp_call": "2016-02-29 14:00:00",
+            "type_call": 2
+        }
+    },
+    {
+        "model": "registercall.registercall",
+        "pk": 2,
+        "fields": {
+            "id_call": 71,
+            "destination_call": "9993468278",
+            "source_call": "99988526423",
+            "timestamp_call": "2017-12-12 15:07:13",
+            "type_call": 1
+        }
+    },
+    {
+        "model": "registercall.registercall",
+        "pk": 3,
+        "fields": {
+            "id_call": 72,
+            "destination_call": "9993468278",
+            "source_call": "99988526423",
+            "timestamp_call": "2017-12-12 22:47:56",
+            "type_call": 1
+        }
+    },
+    {
+        "model": "registercall.registercall",
+        "pk": 4,
+        "fields": {
+            "id_call": 73,
+            "destination_call": "9993468278",
+            "source_call": "99988526423",
+            "timestamp_call": "2017-12-12 21:57:13",
+            "type_call": 1
+        }
+    },
+    {
+        "model": "registercall.registercall",
+        "pk": 5,
+        "fields": {
+            "id_call": 74,
+            "destination_call": "9993468278",
+            "source_call": "99988526423",
+            "timestamp_call": "2017-12-12 04:57:13",
+            "type_call": 1
+        }
+    },
+    {
+        "model": "registercall.registercall",
+        "pk": 7,
+        "fields": {
+            "id_call": 76,
+            "destination_call": "9993468278",
+            "source_call": "99988526423",
+            "timestamp_call": "2017-12-12 15:07:58",
+            "type_call": 1
+        }
+    },
+    {
+        "model": "registercall.registercall",
+        "pk": 8,
+        "fields": {
+            "id_call": 77,
+            "destination_call": "9993468278",
+            "source_call": "99988526423",
+            "timestamp_call": "2018-02-28 21:57:13",
+            "type_call": 1
+        }
+    },
+    {
+        "model": "registercall.registercall",
+        "pk": 10,
+        "fields": {
+            "id_call": 71,
+            "destination_call": null,
+            "source_call": null,
+            "timestamp_call": "2017-12-12 15:14:56",
+            "type_call": 2
+        }
+    },
+    {
+        "model": "registercall.registercall",
+        "pk": 11,
+        "fields": {
+            "id_call": 72,
+            "destination_call": null,
+            "source_call": null,
+            "timestamp_call": "2017-12-12 22:50:56",
+            "type_call": 2
+        }
+    },
+    {
+        "model": "registercall.registercall",
+        "pk": 12,
+        "fields": {
+            "id_call": 73,
+            "destination_call": null,
+            "source_call": null,
+            "timestamp_call": "2017-12-12 22:10:56",
+            "type_call": 2
+        }
+    },
+    {
+        "model": "registercall.registercall",
+        "pk": 13,
+        "fields": {
+            "id_call": 74,
+            "destination_call": null,
+            "source_call": null,
+            "timestamp_call": "2017-12-12 06:10:56",
+            "type_call": 2
+        }
+    },
+    {
+        "model": "registercall.registercall",
+        "pk": 14,
+        "fields": {
+            "id_call": 75,
+            "destination_call": null,
+            "source_call": null,
+            "timestamp_call": "2017-12-13 22:10:56",
+            "type_call": 2
+        }
+    },
+    {
+        "model": "registercall.registercall",
+        "pk": 15,
+        "fields": {
+            "id_call": 76,
+            "destination_call": null,
+            "source_call": null,
+            "timestamp_call": "2017-12-12 15:12:56",
+            "type_call": 2
+        }
+    },
+    {
+        "model": "registercall.registercall",
+        "pk": 16,
+        "fields": {
+            "id_call": 77,
+            "destination_call": null,
+            "source_call": null,
+            "timestamp_call": "2018-03-01 22:10:56",
+            "type_call": 2
+        }
+    }
+]
